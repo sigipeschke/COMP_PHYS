@@ -1,5 +1,7 @@
 # COMP_PHYS
-Course work in computational physics, includes:
+Course work in computational physics was done over two courses, completed by myself with some group work and includes:
+
+PHYS 381:
 
 Analyzing how floating point approximation effects mathematical concepts such as finding the zero points of a function. 
 
@@ -14,6 +16,9 @@ Integrating functions using various libraries as well as developing your own met
 Analysis of ordinary differential equations, specifically a driven and damped harmonic oscillator. 
 
 Analysis of the Mandelbrot set which includes finding divergent stable, periodic and chaotic points, and generating fractal images for various generalized Mandelbrot sets. Integer factorization, finding greatest common denominator between two numbers, and concepts with regards to modular exponentiation. 
+
+
+PHYS 481:
 
 Macrostate probabilities, entropy and Gaussian fit analysis of coin tosses and dice rolls. Lossless image compression and Huffman coding. 
 Analysis of pseudo random number generators, using hyperplanes to determine uniformity, using bitstring analysis to possibly find non-randomness.
