@@ -26,3 +26,12 @@ Analysis of pseudo random number generators, using hyperplanes to determine unif
 Analysis of Cellular Automaton, even sampling over various bit sizes and how this relates to entropy. 
 
 Simulating random walks in order to model ideal gases, then determining statistics such as mean hitting time.
+
+
+PHYS 581:
+
+Principal Component Analysis and Singular Spectrum Analysis.
+
+Strong focus on TensorFlow neural networks.
+
+Error Function and Faddeeva function.
